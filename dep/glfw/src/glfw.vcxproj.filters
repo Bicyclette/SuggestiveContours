@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\vulkan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\win32_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\win32_joystick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\win32_monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\win32_time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\win32_thread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\win32_window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\wgl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\egl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\osmesa_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\mappings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\glfw_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\include\GLFW\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\include\GLFW\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\win32_platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\win32_joystick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\wgl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\egl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\osmesa_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7631FE63-C5BE-38BD-BE64-DEA76C1C3B18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{23148299-2B38-3CAB-95F0-C0992C3C2C47}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

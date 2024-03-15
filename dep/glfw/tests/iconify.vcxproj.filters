@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\tests\iconify.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\deps\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\deps\glad_gl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\deps\getopt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\deps\glad\gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\M2_IGD\IGR202\project\suggestive_contours_Mathias_VELO\dep\glfw\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7631FE63-C5BE-38BD-BE64-DEA76C1C3B18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{23148299-2B38-3CAB-95F0-C0992C3C2C47}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
